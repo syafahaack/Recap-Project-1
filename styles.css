@@ -2,3 +2,15 @@ h1 {
   text-align: center;
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 }
+
+.header {
+  position: fixed;
+  top: 0px;
+  width: 100%;
+  z-index: 1;
+  background: #00ff1e;
+  color: #000000;
+  height: 80px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0 3px 8px;
+  padding: 10px;
+}
